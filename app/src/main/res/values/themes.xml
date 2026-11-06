@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.StayFree" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">#0B1B1E</item>
+        <item name="android:statusBarColor">#0B1B1E</item>
+        <item name="android:navigationBarColor">#12292D</item>
+    </style>
+</resources>
